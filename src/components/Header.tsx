@@ -51,8 +51,8 @@ export function Header({ onSearch, onCategorySelect, categories, onPageChange, c
               onClick={() => onPageChange('home')}
               className="flex items-center hover:opacity-80 transition-opacity"
             >
-              <img src="/assets/Shopnik.png" alt="Shopnik Logo" className="h-8 w-auto mr-2" />
-              <span className="text-xl font-bold text-emerald-600">Shopnik</span>
+              <img src="/assets/Shopnick.png" alt="Shopnick Logo" className="h-8 w-auto mr-2" />
+              <span className="text-xl font-bold text-emerald-600">Shopnick</span>
             </button>
           </div>
           
@@ -92,8 +92,8 @@ export function Header({ onSearch, onCategorySelect, categories, onPageChange, c
                 onClick={() => onPageChange('home')}
                 className="flex items-center hover:opacity-80 transition-opacity"
               >
-                <img src="/assets/Shopnik.png" alt="Shopnik Logo" className="h-8 w-auto mr-2" />
-                <span className="text-xl font-bold text-emerald-600">Shopnik</span>
+                <img src="/assets/Shopnick.png" alt="Shopnick Logo" className="h-8 w-auto mr-2" />
+                <span className="text-xl font-bold text-emerald-600">Shopnick</span>
               </button>
             </div>
 
