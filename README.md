@@ -1,7 +1,5 @@
 # Shopnick - Modern E-Commerce Platform
 
-![Shopnick Logo](./public/assets/Shopnick.png)
-
 ## 🛍️ Overview
 
 Shopnick is a modern, responsive e-commerce platform built with React, TypeScript, and Vite. It offers a seamless shopping experience with a beautiful user interface and robust features for both desktop and mobile users.
@@ -79,7 +77,3 @@ The application uses various configuration files:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
